@@ -60,10 +60,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6067185528594298527, guid: 3ad35fa9b5c1b0f4f99902766a58990f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 999d272446a623041a7858978f0b73ff, type: 2}
+    - target: {fileID: 135727521441441266, guid: 3ad35fa9b5c1b0f4f99902766a58990f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 999d272446a623041a7858978f0b73ff, type: 2}
     - target: {fileID: 919132149155446097, guid: 3ad35fa9b5c1b0f4f99902766a58990f, type: 3}
       propertyPath: m_Name
       value: Dungeon Key 3
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 3ad35fa9b5c1b0f4f99902766a58990f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 999d272446a623041a7858978f0b73ff, type: 2}
+    - target: {fileID: 5901893356585517859, guid: 3ad35fa9b5c1b0f4f99902766a58990f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 999d272446a623041a7858978f0b73ff, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
