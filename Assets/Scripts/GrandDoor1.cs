@@ -9,7 +9,7 @@ public class TreasureDoor : MonoBehaviour
         doorAnimator = GetComponent<Animator>();
     }
 
-    public void OpenGrandDoor() 
+    public void OpenTreasureDoor() 
     {
         doorAnimator.SetBool("isOpen", true);
     }

@@ -48,10 +48,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4430575393862261044, guid: 3fee7b763e491eb4eb508f60742f29ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 391fe7358eef2704e939cb165534573e, type: 2}
     - target: {fileID: 919132149155446097, guid: 3fee7b763e491eb4eb508f60742f29ea, type: 3}
       propertyPath: m_Name
       value: Door 1 Judah
       objectReference: {fileID: 0}
+    - target: {fileID: 1954859237364998489, guid: 3fee7b763e491eb4eb508f60742f29ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 391fe7358eef2704e939cb165534573e, type: 2}
+    - target: {fileID: 6160590662838237271, guid: 3fee7b763e491eb4eb508f60742f29ea, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 391fe7358eef2704e939cb165534573e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: -8700617353114198275, guid: 3fee7b763e491eb4eb508f60742f29ea, type: 3}

@@ -20,9 +20,8 @@ public class PickupObjects : MonoBehaviour
         {
             grandDoor.OpenGrandDoor();
         }
-
-        if (collectedKey >= 3) 
-        { 
+        if (collectedKey >= 3)
+        {
             treasureDoor.OpenTreasureDoor();
         }
     }

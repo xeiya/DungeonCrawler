@@ -9,13 +9,17 @@ public class SpikeActivation : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Spike")
+        if (other.gameObject.tag == "Player")
         {
             spikeAnimator.SetBool("IsActive", true);
         }
-        else 
+    }
+
+    public void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.tag == "Player")
         {
             spikeAnimator.SetBool("IsActive", false);
         }
